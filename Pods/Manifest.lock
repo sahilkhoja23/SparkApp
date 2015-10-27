@@ -1,0 +1,13 @@
+PODS:
+  - Canvas (0.1.2)
+  - UIColor_Hex_Swift (1.4)
+
+DEPENDENCIES:
+  - Canvas
+  - UIColor_Hex_Swift (~> 1.4)
+
+SPEC CHECKSUMS:
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  UIColor_Hex_Swift: cefdb09ec06f9396ced83d17ee40d5589314c8a0
+
+COCOAPODS: 0.39.0
